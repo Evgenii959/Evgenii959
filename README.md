@@ -13,17 +13,16 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Evgenii959&style=flat-square" alt=""/>
   <h1>
-  hey there
+  Привет всем
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :man_technologist: Обо мне :
-  Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> из России.
+  - :telescope: На данный момент активно ищу работу.
 
-- :seedling: Exploring Technical Content Writing.
+  - :zap: В свободное время улучшаю знания JS.
 
-- :zap: В свободное время я улучшая знания JS.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  - :mailbox: Как найти меня: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
