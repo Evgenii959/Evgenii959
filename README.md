@@ -26,3 +26,6 @@
   - :zap: В свободное время улучшаю знания JS.
 
   - :mailbox: Как найти меня:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  - ---
+
+### :hammer_and_wrench: Languages and Tools :
