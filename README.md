@@ -18,11 +18,11 @@
 </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-### :man_technologist: Обо мне :
-  Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> из России.
+###
+ :man_technologist: Обо мне :
+  Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px"> из России.
   - :telescope: На данный момент активно ищу работу.
 
   - :zap: В свободное время улучшаю знания JS.
 
-  - :mailbox: Как найти меня: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  - :mailbox: Как найти меня:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
