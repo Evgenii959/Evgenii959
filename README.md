@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://t.me/evgeny_chet">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -20,14 +20,13 @@
 </div>
 ---
 
-### :hammer_and_wrench: Languages and Tools :
- ### :man_technologist: Обо мне :
+### :man_technologist: Обо мне :
   Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> из России.
   - :telescope: На данный момент активно ищу работу.
 
-  - :zap: В свободное время улучшаю знания JS.
+  - :zap: В свободное время улучшаю знания JS, React.
 
   - :mailbox: Как найти меня:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки программирования и инструменты :
