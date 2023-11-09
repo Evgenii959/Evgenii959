@@ -7,7 +7,7 @@
   <a href="https://wa.me/79771407249">
   <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="www.linkedin.com/in/evgenii-chetaikin-986531267">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
@@ -27,7 +27,7 @@
 
   - :zap: В свободное время улучшаю знания JS, React.
 
-  - :mailbox: Как найти меня:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  - :mailbox: Как найти меня:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
     
 ---
 
