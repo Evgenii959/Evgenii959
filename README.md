@@ -18,7 +18,6 @@
 </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
 ### :man_technologist: Обо мне :
   Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> из России.
@@ -39,7 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgenii959)](https://git.io/streak-stats)
