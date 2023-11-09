@@ -19,6 +19,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
+
 ### :man_technologist: Обо мне :
   Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> из России.
   - :telescope: На данный момент активно ищу работу.
@@ -40,4 +41,5 @@
 </div>
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgenii959&theme=dark&background=000000)](https://git.io/streak-stats)
