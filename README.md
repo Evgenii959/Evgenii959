@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Evgenii959&style=flat-square" alt=""/>
   <h1>
-  Привет всем
+  Привет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
 </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
