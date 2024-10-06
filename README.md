@@ -25,7 +25,7 @@
   Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> из России.
   - :telescope: На данный момент активно ищу работу.
 
-  - :zap: В свободное время улучшаю знания JS, React.
+  - :zap: В свободное время улучшаю знания JS, Vue, React.
 
   - :mailbox: Как найти меня:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
     
