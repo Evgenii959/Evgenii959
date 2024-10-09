@@ -19,11 +19,6 @@
 
 ---
 
-### :fire: Моя статистика :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenii959&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### :man_technologist: Обо мне :
   Я front-end разработчик.
   - :telescope: На данный момент активно ищу работу.
@@ -33,6 +28,9 @@
   - :mailbox: Как найти меня:  [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evgeny_chet)
     
 ---
+
+### :fire: Моя статистика :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenii959&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Языки программирования и инструменты :
 <div>
