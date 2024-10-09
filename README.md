@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: Обо мне :
-  Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> из России.
+  Я front-end разработчик.
   - :telescope: На данный момент активно ищу работу.
 
   - :zap: В свободное время улучшаю знания JS, Vue, React.
