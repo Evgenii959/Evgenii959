@@ -19,7 +19,7 @@
 </div>
 
 ---
-https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
+
 ### :man_technologist: Обо мне :
   Я front-end разработчик.
   - :telescope: На данный момент активно ищу работу.
